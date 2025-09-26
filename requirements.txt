@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+easyocr
+rapidfuzz
+python-dotenv
+supabase
